@@ -6,7 +6,7 @@
 
 ## Description
 This is a site built to advertise a company called Horiseon. The website features navigation tools provide the user accessibility.
-[Link to live site]
+[Link to live site]https://theodoreshishkovskiy.github.io/horiseon-refactor-project/
 
 ## Visuals
-![Alt text]
+![Alt text](./assets/images/Horiseon.png)
