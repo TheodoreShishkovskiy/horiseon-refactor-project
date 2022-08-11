@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-/* changed css tags down to nav */
+/* changed css tags down to nav to match html */
 nav {
     padding-top: 15px;
     margin-right: 20px;
